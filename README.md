@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pruthviraj+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;22%2B+Certifications+%26+Counting+%F0%9F%93%9C;Always+Learning%2C+Always+Building+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pruthviraj+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;50%2B+Certifications+%26+Counting+%F0%9F%93%9C;Always+Learning%2C+Always+Building+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering (2023–2027) — North Maharashtra Knowledge City
 - 💼 Flutter Developer Intern @ **UNIKODEX** — building production mobile apps
-- 🤖 Passionate about **AI/ML, LLMs, RAG, and Generative AI**
+- 🤖 Passionate about **AI/ML, LLMs, RAG, MCP, and Generative AI**
 - ☁️ Cloud Native — AWS, GCP, Oracle Cloud
 - ♟️ Chess strategist | Open Source contributor | Polyglot (English, Hindi, Marathi, learning Japanese)
 - 🏆 **50+ Professional Certifications** in AI/ML, Cloud & Development
@@ -52,7 +52,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ---
 
@@ -102,48 +102,82 @@
 
 ---
 
-## 📜 Certifications (22+)
+## 📜 Certifications (50+)
 
 <details>
-<summary><b>🤖 AI / ML Certifications (click to expand)</b></summary>
+<summary><b>🤖 Anthropic / Claude Certifications (13)</b></summary>
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| Claude 101 | Anthropic | Mar 2026 |
+| Building with the Claude API | Anthropic | Mar 2026 |
+| Claude Code in Action | Anthropic | Mar 2026 |
+| Introduction to Claude Cowork | Anthropic | Mar 2026 |
+| AI Fluency: Framework & Foundations | Anthropic | Mar 2026 |
+| Claude in Amazon Bedrock | Anthropic | Apr 2026 |
+| Claude with Google Cloud's Vertex AI | Anthropic | Apr 2026 |
+| AI Fluency for nonprofits | Anthropic | Apr 2026 |
+| AI Fluency: AI Capabilities and Limitations | Anthropic | Apr 2026 |
+| Teaching the AI Fluency Framework | Anthropic | Apr 2026 |
+| Introduction to agent skills | Anthropic | Apr 2026 |
+| Introduction to subagents | Anthropic | Apr 2026 |
+| AI Fluency for educators | Anthropic | Apr 2026 |
+| AI Fluency for students | Anthropic | Apr 2026 |
+| Introduction to Model Context Protocol | Anthropic | Apr 2026 |
+| Model Context Protocol: Advanced Topics | Anthropic | Apr 2026 |
+
+</details>
+
+<details>
+<summary><b>🧠 AI / ML Certifications</b></summary>
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
 | Generative AI with Vertex AI: Build a customer chatbot | Coursera | Nov 2025 |
+| Create Your First Gemini Enterprise Application | Google | Apr 2026 |
 | Intro to AI Engineering | Scrimba | Nov 2025 |
 | Introduction to Retrieval Augmented Generation (RAG) | Duke University | Nov 2025 |
 | Open-source AI Models | Scrimba | Nov 2025 |
 | The Rise of Generative AI | Board Infinity | Nov 2025 |
 | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle | Oct 2025 |
 | Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle | Oct 2025 |
-| Gen AI for developers: Web development with Python & Copilot | Coursera | Sep 2025 |
 | Machine Learning with Python | IBM | Sep 2025 |
+| Gen AI for developers: Web development with Python & Copilot | Coursera | Sep 2025 |
 | Generative AI in HR - Impact and Application of Gen AI | Board Infinity | Jun 2025 |
 | Introducing Generative AI with AWS | Udacity | Jun 2025 |
 | Leading Security Teams for GenAI Solutions | Skillsoft | Jun 2025 |
+| AWS AI & ML Scholars - 2026 Challenge Completion | Udacity | Mar 2026 |
+| AWS AI Practitioner Challenge | Udacity | Mar 2026 |
+| Machine Learning I | Columbia+ | — |
+| Prompt Engineering & Programming with OpenAI | Columbia+ | — |
+| 5-Day AI Agents Intensive Course with Google | ULSA | Dec 2025 |
+| Introduction to Networking | NVIDIA | Nov 2025 |
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud Certifications</b></summary>
+<summary><b>☁️ Cloud & Software Certifications</b></summary>
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
 | Introduction to Cloud Computing | IBM | Sep 2025 |
-
-</details>
-
-<details>
-<summary><b>💻 Software & Other Certifications</b></summary>
-
-| Certificate | Issuer | Date |
-|-------------|--------|------|
 | Full Stack Developer | OneRoadmap | Sep 2025 |
 | Getting Started with Git and GitHub | IBM | Sep 2025 |
 | Introduction to HTML, CSS, & JavaScript | IBM | Sep 2025 |
 | Introduction to Software Engineering | IBM | Sep 2025 |
 | Foundations: Data, Data, Everywhere | Google | Sep 2025 |
-| Introduction to Networking | NVIDIA | Nov 2025 |
+| Kestra Fundamentals | Kestra | — |
+
+</details>
+
+<details>
+<summary><b>🏆 Hackathons & Competitions</b></summary>
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| EY Techathon 6.0 — Round 1 Participation | Unstop | Apr 2026 |
+| Decode To Conquer 6.0 — Product Management Case Competition | Unstop | Dec 2025 |
+| India AI Impact Summit Buildathon | HCL GUVI | — |
 | Deloitte Australia - Technology Job Simulation | Forage | Aug 2025 |
 
 </details>
