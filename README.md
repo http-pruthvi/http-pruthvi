@@ -15,7 +15,7 @@
 - 🤖 Passionate about **AI/ML, LLMs, RAG, and Generative AI**
 - ☁️ Cloud Native — AWS, GCP, Oracle Cloud
 - ♟️ Chess strategist | Open Source contributor | Polyglot (English, Hindi, Marathi, learning Japanese)
-- 🏆 **22+ Professional Certifications** in AI/ML, Cloud & Development
+- 🏆 **50+ Professional Certifications** in AI/ML, Cloud & Development
 - 📫 Reach me at **phusepruthvi@gmail.com** | **+91 8805765930**
 
 ---
