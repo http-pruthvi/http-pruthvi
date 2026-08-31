@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pruthviraj+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;50%2B+Certifications+%26+Counting+%F0%9F%93%9C;Always+Learning%2C+Always+Building+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pruthviraj+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;60%2B+Certifications+%26+Counting+%F0%9F%93%9C;Always+Learning%2C+Always+Building+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🤖 Passionate about **AI/ML, LLMs, RAG, MCP, and Generative AI**
 - ☁️ Cloud Native — AWS, GCP, Oracle Cloud
 - ♟️ Chess strategist | Open Source contributor | Polyglot (English, Hindi, Marathi, learning Japanese)
-- 🏆 **50+ Professional Certifications** in AI/ML, Cloud & Development
+- 🏆 **60+ Professional Certifications** in AI/ML, Cloud & Development
 - 📫 Reach me at **phusepruthvi@gmail.com** | **+91 8805765930**
 
 ---
@@ -102,10 +102,10 @@
 
 ---
 
-## 📜 Certifications (50+)
+## 📜 Certifications (60+)
 
-<details>
-<summary><b>🤖 Anthropic / Claude Certifications (13)</b></summary>
+<details open>
+<summary><b>🤖 Anthropic / Claude Certifications (16)</b></summary>
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
@@ -129,34 +129,35 @@
 </details>
 
 <details>
-<summary><b>🧠 AI / ML Certifications</b></summary>
+<summary><b>🧠 AI / ML Certifications (19)</b></summary>
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| Generative AI with Vertex AI: Build a customer chatbot | Coursera | Nov 2025 |
+| Gen AI Academy | Google | Aug 2026 |
 | Create Your First Gemini Enterprise Application | Google | Apr 2026 |
+| AWS AI & ML Scholars - 2026 Challenge Completion | Udacity | Mar 2026 |
+| AWS AI Practitioner Challenge | Udacity | Mar 2026 |
+| Generative AI with Vertex AI: Build a customer chatbot | Coursera | Nov 2025 |
 | Intro to AI Engineering | Scrimba | Nov 2025 |
 | Introduction to Retrieval Augmented Generation (RAG) | Duke University | Nov 2025 |
 | Open-source AI Models | Scrimba | Nov 2025 |
 | The Rise of Generative AI | Board Infinity | Nov 2025 |
+| Introduction to Networking | NVIDIA | Nov 2025 |
+| 5-Day AI Agents Intensive Course with Google | ULSA | Dec 2025 |
 | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle | Oct 2025 |
 | Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle | Oct 2025 |
 | Machine Learning with Python | IBM | Sep 2025 |
-| Gen AI for developers: Web development with Python & Copilot | Coursera | Sep 2025 |
+| Gen AI for developers: Web development with Python & Copilot | Coursera Project Network | Sep 2025 |
 | Generative AI in HR - Impact and Application of Gen AI | Board Infinity | Jun 2025 |
 | Introducing Generative AI with AWS | Udacity | Jun 2025 |
 | Leading Security Teams for GenAI Solutions | Skillsoft | Jun 2025 |
-| AWS AI & ML Scholars - 2026 Challenge Completion | Udacity | Mar 2026 |
-| AWS AI Practitioner Challenge | Udacity | Mar 2026 |
 | Machine Learning I | Columbia+ | — |
 | Prompt Engineering & Programming with OpenAI | Columbia+ | — |
-| 5-Day AI Agents Intensive Course with Google | ULSA | Dec 2025 |
-| Introduction to Networking | NVIDIA | Nov 2025 |
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & Software Certifications</b></summary>
+<summary><b>☁️ Cloud & Software Certifications (7)</b></summary>
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
@@ -171,12 +172,18 @@
 </details>
 
 <details>
-<summary><b>🏆 Hackathons & Competitions</b></summary>
+<summary><b>🏆 Hackathons & Competitions (10)</b></summary>
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| EY Techathon 6.0 — Round 1 Participation | Unstop | Apr 2026 |
-| Decode To Conquer 6.0 — Product Management Case Competition | Unstop | Dec 2025 |
+| Round 1: Online (MVP Submission) — Far Away | Unstop | Jul 2026 |
+| Brand Parent Quiz — Unstop Quizverse 2026 | Unstop | Aug 2026 |
+| Round 1 - Online Assessment (MCQ & Coding) — Adobe University Hackathon 2026 | Unstop | Aug 2026 |
+| HACKHAZARDS '26 Participation Certificate | NAMESPACE | Jul 2026 |
+| Solution Challenge 2026 - Build with AI | Hack2skill | Jul 2026 |
+| Solution Challenge 2026 - Build with AI (HACKHAZARDS '26 Registered) | NAMESPACE | Jun 2026 |
+| EY Techathon 6.0 — Round 1 Executive Summary Submission | Unstop | Apr 2026 |
+| Decode To Conquer 6.0 — Product Management Case Competition, 7 Lakes Fest 2025 | Unstop | Dec 2025 |
 | India AI Impact Summit Buildathon | HCL GUVI | — |
 | Deloitte Australia - Technology Job Simulation | Forage | Aug 2025 |
 
