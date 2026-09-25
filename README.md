@@ -26,6 +26,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phusepruthvi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://pruthvi-portfolio-2025.vercel.app/)
 
+<a href="https://pruthvi-portfolio-2025.vercel.app/">
+  <img src="https://api.microlink.io/?url=https://pruthvi-portfolio-2025.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="700"/>
+</a>
+
 ---
 
 # 💻 Tech Stack
